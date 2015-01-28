@@ -1,0 +1,12 @@
+{
+  "jspm": {
+    "name": "songspine",
+    "directories": {
+      "lib": "lib"
+    }
+  },
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-html-replace": "^1.4.3"
+  }
+}
