@@ -21,14 +21,31 @@ css = _.map(_.keys(css), function(dep) {
 });
 
 // Gulp Tasks
-gulp.task('default',['js:dev'], compile('dev'));
-gulp.task('prod',['js:prod'], compile('prod'));
+gulp.task('default',['sass','css','js:dev'], compile('dev'));
+gulp.task('prod',['sass','css','js:prod'], compile('prod'));
 
 gulp.task('js:prod', function(){
-  return exec('jspm bundle-sfx lib/main lib/bundle.js --minify');
+  return exec('jspm bundle-sfx lib/main dist/bundle.js --minify');
 });
 gulp.task('js:dev', function(){
   return exec('jspm unbundle');
+});
+
+gulp.task('sass', function(){
+  return gulp.src(['lib/*.sass'])
+    .pipe(gp.sass())
+    .pipe(gp.concat('main.css'))
+    .pipe(gp.autoprefixer())
+    .pipe(gp.cssmin())
+    .pipe(gulp.dest('dist/'));
+});
+
+gulp.task('css', function(){
+  return gulp.src(css)
+    .pipe(gp.concat('vendor.css'))
+    .pipe(gp.autoprefixer())
+    .pipe(gp.cssmin())
+    .pipe(gulp.dest('dist/'));
 });
 
 function compile(env){
@@ -45,18 +62,16 @@ function compile(env){
     case 'prod':
       js = [
         'jspm_packages/traceur.js',
-        'lib/bundle.js'
+        'dist/bundle.js'
       ];
       break;
   }
 
   return function(){
     var jsSources = gulp.src(js, { read:false });
-    var cssSources = gulp.src(css, { read:false });
     var startSource = gulp.src(start);
 
     return gulp.src('index.html')
-      .pipe(inject(cssSources, { relative:true }))
       .pipe(inject(jsSources, { relative:true }))
       .pipe(inject(startSource, {
         starttag:'<!-- start:js -->',
