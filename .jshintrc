@@ -1,5 +1,7 @@
 {
   "quotmark": true,
+  "strict":true,
   "esnext":true,
-  "maxcomplexity":5
+  "maxcomplexity":5,
+  "browserify": true
 }

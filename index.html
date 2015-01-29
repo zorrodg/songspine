@@ -2,13 +2,29 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <title>SongSpine</title>
   <link rel="stylesheet" href="dist/vendor.css">
   <link rel="stylesheet" href="dist/main.css">
 </head>
 <body>
-  <h1>SongSpine</h1>
-  <p>Random song structure generator.</p>
+
+  <div class="wrapper">
+    <header>
+      <h1>SongSpine</h1>
+      <p>Random song structure generator</p>
+    </header>
+
+    <button id="start" class="pure-button pure-button-primary start">Generate new random structure!</button>
+
+    <div id="app">
+      
+    </div>
+
+    <footer>
+      Happy composing!
+    </footer>
+  </div>
   
   <!-- inject:js -->
   <script src="jspm_packages/traceur.js"></script>

@@ -1,1 +1,1 @@
-body,html{background-color:#EEE}
+body,html{background-color:#DDD;width:100vw}body .wrapper,html .wrapper{width:70vw;margin:0 auto;text-align:center}body .wrapper #app,html .wrapper #app{text-align:left}body .wrapper footer,html .wrapper footer{margin:2rem 0}

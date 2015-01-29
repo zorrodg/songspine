@@ -21,14 +21,21 @@ css = _.map(_.keys(css), function(dep) {
 });
 
 // Gulp Tasks
-gulp.task('default',['sass','css','js:dev'], compile('dev'));
-gulp.task('prod',['sass','css','js:prod'], compile('prod'));
+gulp.task('default',['sass','css','js:dev','index:dev']);
+gulp.task('prod',['sass','css','js:prod','index:prod']);
+
+gulp.task('index:dev', compile('dev'));
+gulp.task('index:prod',compile('prod'));
 
 gulp.task('js:prod', function(){
   return exec('jspm bundle-sfx lib/main dist/bundle.js --minify');
 });
 gulp.task('js:dev', function(){
   return exec('jspm unbundle');
+});
+
+gulp.task('watch', ['default'], function(){
+  gulp.watch('lib/*.*', ['sass','index:dev']);
 });
 
 gulp.task('sass', function(){
