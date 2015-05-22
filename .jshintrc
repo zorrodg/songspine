@@ -3,5 +3,7 @@
   "strict":true,
   "esnext":true,
   "maxcomplexity":5,
-  "browserify": true
+  "browserify": true,
+  "unused": true,
+  "undef": true
 }

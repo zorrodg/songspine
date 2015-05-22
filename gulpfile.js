@@ -1,12 +1,21 @@
+'use strict';
+
+/**
+ * GulpFile
+ * @author Andrés Zorro <zorrodg@gmail.com>
+ * @package songspine
+ */
+
+// Module dependencies
 var gulp = require('gulp');
-var inject = require('gulp-inject');
 var _ = require('lodash');
+var exec = require('child_process').exec;
 var gp = require('gulp-load-plugins')({
       pattern: ['gulp-*', 'gulp.*'],
       replaceString: /\bgulp[\-.]/
     });
-var exec = require('child_process').exec;
 
+// Variables
 var pkg = require('./package.json'),
     css = pkg.dependencies;
 
@@ -79,8 +88,8 @@ function compile(env){
     var startSource = gulp.src(start);
 
     return gulp.src('index.html')
-      .pipe(inject(jsSources, { relative:true }))
-      .pipe(inject(startSource, {
+      .pipe(gp.inject(jsSources, { relative:true }))
+      .pipe(gp.inject(startSource, {
         starttag:'<!-- start:js -->',
         transform:function(fp){
           return fp.length ? '<script>System.import("lib/main");</script>':false;

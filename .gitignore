@@ -29,3 +29,4 @@ jspm_packages/*
 
 # Users Environment Variables
 .lock-wscript
+npm-debug.log
