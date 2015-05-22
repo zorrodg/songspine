@@ -5,6 +5,7 @@
   "main": "index.html",
   "jspm": {
     "dependencies": {
+      "jsonp": "npm:jsonp@^0.2.0",
       "lodash": "^3.0.0",
       "node-fetch": "npm:node-fetch@^1.2.1"
     },
