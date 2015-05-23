@@ -1,4 +1,5 @@
 System.config({
+  "transpiler": "traceur",
   "paths": {
     "*": "*.js",
     "songspine/*": "lib/*.js",
@@ -10,7 +11,8 @@ System.config({
 System.config({
   "map": {
     "jsonp": "npm:jsonp@0.2.0",
-    "lodash": "npm:lodash@3.0.0",
+    "jsonp-promise": "npm:jsonp-promise@0.1.2",
+    "lodash": "npm:lodash@3.9.1",
     "node-fetch": "npm:node-fetch@1.2.1",
     "traceur": "github:jmcriffey/bower-traceur@0.0.87",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.87",
@@ -223,6 +225,9 @@ System.config({
       "debug": "npm:debug@2.1.3"
     },
     "npm:lodash@3.0.0": {
+      "process": "github:jspm/nodelibs-process@0.1.1"
+    },
+    "npm:lodash@3.9.1": {
       "process": "github:jspm/nodelibs-process@0.1.1"
     },
     "npm:miller-rabin@2.0.1": {
