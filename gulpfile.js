@@ -43,7 +43,11 @@ gulp.task('js:dev', function(){
   return exec('jspm unbundle');
 });
 
-gulp.task('watch', ['default'], function(){
+gulp.task('server:init', function () {
+  return exec('live-server .');
+});
+
+gulp.task('watch', ['default', 'server:init'], function(){
   gulp.watch('lib/*.*', ['sass','index:dev']);
 });
 
