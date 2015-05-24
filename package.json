@@ -8,7 +8,9 @@
       "jsonp": "npm:jsonp@^0.2.0",
       "jsonp-promise": "npm:jsonp-promise@^0.1.2",
       "lodash": "npm:lodash@^3.9.1",
-      "node-fetch": "npm:node-fetch@^1.2.1"
+      "node-fetch": "npm:node-fetch@^1.2.1",
+      "plural": "npm:plural@^0.1.6",
+      "qs": "npm:qs@^3.0.0"
     },
     "devDependencies": {
       "traceur": "github:jmcriffey/bower-traceur@0.0.87",

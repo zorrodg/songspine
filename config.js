@@ -14,6 +14,8 @@ System.config({
     "jsonp-promise": "npm:jsonp-promise@0.1.2",
     "lodash": "npm:lodash@3.9.1",
     "node-fetch": "npm:node-fetch@1.2.1",
+    "plural": "npm:plural@0.1.6",
+    "qs": "npm:qs@3.0.0",
     "traceur": "github:jmcriffey/bower-traceur@0.0.87",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.87",
     "github:jspm/nodelibs-assert@0.1.0": {
@@ -265,6 +267,10 @@ System.config({
       "crypto": "github:jspm/nodelibs-crypto@0.1.0",
       "path": "github:jspm/nodelibs-path@0.1.0",
       "process": "github:jspm/nodelibs-process@0.1.1",
+      "systemjs-json": "github:systemjs/plugin-json@0.1.0"
+    },
+    "npm:plural@0.1.6": {
+      "assert": "github:jspm/nodelibs-assert@0.1.0",
       "systemjs-json": "github:systemjs/plugin-json@0.1.0"
     },
     "npm:process@0.11.1": {
