@@ -1,5 +1,4 @@
 System.config({
-  "transpiler": "traceur",
   "paths": {
     "*": "*.js",
     "songspine/*": "lib/*.js",
@@ -226,9 +225,6 @@ System.config({
     "npm:jsonp@0.2.0": {
       "debug": "npm:debug@2.1.3"
     },
-    "npm:lodash@3.0.0": {
-      "process": "github:jspm/nodelibs-process@0.1.1"
-    },
     "npm:lodash@3.9.1": {
       "process": "github:jspm/nodelibs-process@0.1.1"
     },
@@ -293,6 +289,17 @@ System.config({
       "crypto": "github:jspm/nodelibs-crypto@0.1.0",
       "process": "github:jspm/nodelibs-process@0.1.1"
     },
+    "npm:readable-stream@1.0.33": {
+      "buffer": "github:jspm/nodelibs-buffer@0.1.0",
+      "core-util-is": "npm:core-util-is@1.0.1",
+      "events": "github:jspm/nodelibs-events@0.1.0",
+      "inherits": "npm:inherits@2.0.1",
+      "isarray": "npm:isarray@0.0.1",
+      "process": "github:jspm/nodelibs-process@0.1.1",
+      "stream": "github:jspm/nodelibs-stream@0.1.0",
+      "stream-browserify": "npm:stream-browserify@1.0.0",
+      "string_decoder": "npm:string_decoder@0.10.31"
+    },
     "npm:readable-stream@1.1.13": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.0",
       "core-util-is": "npm:core-util-is@1.0.1",
@@ -318,7 +325,7 @@ System.config({
     "npm:stream-browserify@1.0.0": {
       "events": "github:jspm/nodelibs-events@0.1.0",
       "inherits": "npm:inherits@2.0.1",
-      "readable-stream": "npm:readable-stream@1.1.13"
+      "readable-stream": "npm:readable-stream@1.0.33"
     },
     "npm:string_decoder@0.10.31": {
       "buffer": "github:jspm/nodelibs-buffer@0.1.0"

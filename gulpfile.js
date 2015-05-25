@@ -20,12 +20,17 @@ var pkg = require('./package.json'),
     css = pkg.dependencies;
 
 css = _.map(_.keys(css), function(dep) {
-  var dependency = require('./node_modules/' + dep + '/package.json');
+  var dependency = require('./node_modules/' + dep + '/package.json'),
+      glob;
   
   if(dependency.main){
     return dependency.main;
   } else {
-    return './node_modules/' + dep + '/' + pkg.overrides[dep];
+    glob = _.map(pkg.overrides[dep], function(dependency) {
+      return './node_modules/' + dep + '/' + dependency;
+    });
+
+    return glob;
   }
 });
 
@@ -56,15 +61,19 @@ gulp.task('sass', function(){
     .pipe(gp.sass())
     .pipe(gp.concat('main.css'))
     .pipe(gp.autoprefixer())
-    .pipe(gp.cssmin())
+    .pipe(gp.minifyCss({
+      keepSpecialComments: 0
+    }))
     .pipe(gulp.dest('dist/'));
 });
 
 gulp.task('css', function(){
-  return gulp.src(css)
-    .pipe(gp.concat('vendor.css'))
+  return gulp.src(_.flatten(css))
+    .pipe(gp.concat('vendor.css', {newLine: '\r\n\r\n'}))
     .pipe(gp.autoprefixer())
-    .pipe(gp.cssmin())
+    .pipe(gp.minifyCss({
+      keepSpecialComments: 0
+    }))
     .pipe(gulp.dest('dist/'));
 });
 

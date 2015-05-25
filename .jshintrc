@@ -2,8 +2,11 @@
   "quotmark": true,
   "strict":true,
   "esnext":true,
-  "maxcomplexity":5,
+  "maxcomplexity":10,
   "browserify": true,
-  "unused": true,
-  "undef": true
+  "unused": "strict",
+  "undef": true,
+  "predef": [
+    "System"
+  ]
 }

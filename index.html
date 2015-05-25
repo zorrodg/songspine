@@ -15,7 +15,9 @@
       <p>Random song structure generator</p>
     </header>
 
-    <button id="start" class="pure-button pure-button-primary start">Generate new random structure!</button>
+    <button id="start" class="pure-button pure-button-primary start">
+      Generate new random structure!
+    </button>
 
     <div id="app">
       
@@ -27,9 +29,11 @@
   </div>
   
   <!-- inject:js -->
-  <script src="dist/bundle.js"></script>
+  <script src="jspm_packages/system.js"></script>
+  <script src="config.js"></script>
   <!-- endinject -->
   <!-- start:js --> 
+  <script>System.import("lib/main");</script> 
   <!-- endinject -->
 </body>
 </html>
