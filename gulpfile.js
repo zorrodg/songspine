@@ -8,6 +8,7 @@
 
 // Module dependencies
 var gulp = require('gulp');
+var del = require('del');
 var _ = require('lodash');
 var path = require('path');
 var exec = require('child_process').exec;
@@ -60,7 +61,11 @@ gulp.task('watch', ['default', 'server:init'], function(){
 gulp.task('hooks', function () {
   gulp.src('hooks/*')
     .pipe(gp.sym(function (source) {
-      return path.join('.git/hooks/', source.relative.split(path.sep)[0]);
+      var link = path.join('.git/hooks/', source.relative.split(path.sep)[0]);
+
+      del.sync(link);
+
+      return link;
     }));
 });
 
