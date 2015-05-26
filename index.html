@@ -29,9 +29,11 @@
   </div>
   
   <!-- inject:js -->
-  <script src="dist/bundle.js"></script>
+  <script src="jspm_packages/system.js"></script>
+  <script src="config.js"></script>
   <!-- endinject -->
   <!-- start:js --> 
+  <script>System.import("lib/main");</script> 
   <!-- endinject -->
 </body>
 </html>

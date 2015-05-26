@@ -1,0 +1,1652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"banned",
+				"bannedMatch"
+			],
+			[
+				"appen",
+				"appendChild"
+			],
+			[
+				"curre",
+				"currentActiveCategory〔variable〕"
+			],
+			[
+				"active",
+				"activeChild〔variable〕"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"_",
+				"_pageToken"
+			],
+			[
+				"clickOn",
+				"clickOnWidget"
+			],
+			[
+				"showcas",
+				"showcaseItem"
+			],
+			[
+				"new",
+				"newRoute〔variable〕"
+			],
+			[
+				"fla",
+				"flagshipCategory"
+			],
+			[
+				"channe",
+				"channelId"
+			],
+			[
+				"Services",
+				"ServicesNav"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"getPart",
+				"getPartnerAppsFilters"
+			],
+			[
+				"ttf",
+				"trstf	transition-timing-function: ${1:tfunc};"
+			],
+			[
+				"open",
+				"openAddProviderModal"
+			],
+			[
+				"nur",
+				"nurseResponse〔variable〕"
+			],
+			[
+				"sub",
+				"submitServiceProviderData"
+			],
+			[
+				"submit",
+				"submitSurveyData"
+			],
+			[
+				"getS",
+				"getSurveyOptions"
+			],
+			[
+				"getProvider",
+				"getProviderData"
+			],
+			[
+				"getLand",
+				"getLandingData"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"deeplink",
+				"deeplinkParams〔variable〕"
+			],
+			[
+				"tra",
+				"transitionParams"
+			],
+			[
+				"per",
+				"persistedState〔variable〕"
+			],
+			[
+				"component",
+				"componentClick"
+			],
+			[
+				"channel",
+				"channelName"
+			],
+			[
+				"tabbed",
+				"tabbedComponentAction"
+			],
+			[
+				"_loca",
+				"_locations〔variable〕"
+			],
+			[
+				"see",
+				"seeMoreAction"
+			],
+			[
+				"seeMo",
+				"seeMoreActionFn"
+			],
+			[
+				"products",
+				"products_list"
+			],
+			[
+				"om",
+				"omSweepsFn"
+			],
+			[
+				"videoMo",
+				"videoModalInstance"
+			],
+			[
+				"modal",
+				"modalDialog"
+			],
+			[
+				"video",
+				"videoIframe"
+			],
+			[
+				"videoI",
+				"videoIFrameHTML"
+			],
+			[
+				"Comp",
+				"ComponentActions"
+			],
+			[
+				"comp",
+				"componentId"
+			],
+			[
+				"join",
+				"joinedCategoryIds"
+			],
+			[
+				"Component",
+				"ComponentActions"
+			],
+			[
+				"redirect",
+				"redirectToAngularPage"
+			],
+			[
+				"profileConfigura",
+				"profileConfiguratorOptions"
+			],
+			[
+				"replace",
+				"replacePlaceholdersInUrl"
+			],
+			[
+				"platform",
+				"platformMethod"
+			],
+			[
+				"deep",
+				"deeplinkUrl"
+			],
+			[
+				"split",
+				"splitComp"
+			],
+			[
+				"Templ",
+				"TemplateOneController"
+			],
+			[
+				"Template",
+				"TemplateOne"
+			],
+			[
+				"CHann",
+				"CHANNEL"
+			],
+			[
+				"left",
+				"leftNavItems"
+			],
+			[
+				"state",
+				"stateParams"
+			],
+			[
+				"S",
+				"Service"
+			],
+			[
+				"ShopCHa",
+				"ShopChannelService"
+			],
+			[
+				"Channel",
+				"CHANNEL"
+			],
+			[
+				"services",
+				"servicesResolve〔variable〕"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"FS",
+				"FSShopCommon"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"redire",
+				"redirectToState"
+			],
+			[
+				"leftNav",
+				"leftNavClickTypes"
+			],
+			[
+				"red",
+				"redirectToAngularPage"
+			],
+			[
+				"Ut",
+				"Utils"
+			],
+			[
+				"redi",
+				"redirectToRoute"
+			],
+			[
+				"Shop",
+				"ShopChannelPageConfig"
+			],
+			[
+				"page",
+				"pageToGo〔variable〕"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"Relate",
+				"RelatedProducts"
+			],
+			[
+				"guide",
+				"guidePageNo"
+			],
+			[
+				"story",
+				"storyIdForAddLike"
+			],
+			[
+				"stor",
+				"storyObject"
+			],
+			[
+				"appCon",
+				"appConfigurationFactory"
+			],
+			[
+				"loca",
+				"location	\\$location"
+			],
+			[
+				"Share",
+				"ShareController"
+			],
+			[
+				"artic",
+				"articleDisclaimer"
+			],
+			[
+				"article",
+				"articleData〔variable〕"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"act",
+				"activeScrollEvent〔variable〕"
+			],
+			[
+				"Landin",
+				"LANDING"
+			],
+			[
+				"Page",
+				"PageConf"
+			],
+			[
+				"Art",
+				"ArticlesService"
+			],
+			[
+				"_file",
+				"_filtersData"
+			],
+			[
+				"quer",
+				"querystring"
+			],
+			[
+				"Pag",
+				"PageConfigurationService"
+			],
+			[
+				"pageConf",
+				"pageConfigurationService"
+			],
+			[
+				"Disc",
+				"DiscoverController〔class〕"
+			],
+			[
+				"env",
+				"envParams〔variable〕"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"js",
+				"jsBlock"
+			],
+			[
+				"tabs",
+				"tabsInFolder"
+			],
+			[
+				"register",
+				"registerTabTask"
+			],
+			[
+				"end",
+				"endbuild"
+			],
+			[
+				"click",
+				"clickOnShowcase"
+			],
+			[
+				"_persisted",
+				"_persistedFilters〔variable〕"
+			],
+			[
+				"Fit",
+				"FitstudioDealsBanners〔variable〕"
+			],
+			[
+				"Fitst",
+				"FitstudioDealsBanners"
+			],
+			[
+				"P",
+				"PAGE_NAME"
+			],
+			[
+				"localS",
+				"localStorageData"
+			],
+			[
+				"com",
+				"componentId"
+			],
+			[
+				"ex",
+				"exclusionsApplyModalText"
+			],
+			[
+				"full",
+				"fullResponse"
+			],
+			[
+				"Articles",
+				"ArticlesResolve"
+			],
+			[
+				"Discla",
+				"DisclaimerResolve"
+			],
+			[
+				"Ji",
+				"JillianMichaels"
+			],
+			[
+				"JillianMichaels",
+				"JillianMichaelsCtrl"
+			],
+			[
+				"in",
+				"injector	\\$injector"
+			],
+			[
+				"fallba",
+				"fallbackParams"
+			],
+			[
+				"finish",
+				"finishService"
+			],
+			[
+				"Channe",
+				"ChannelsServiceResolve〔variable〕"
+			],
+			[
+				"Sna",
+				"SnapFitnessController〔variable〕"
+			],
+			[
+				"Snap",
+				"SnapFitnessController"
+			],
+			[
+				"fail",
+				"failures"
+			],
+			[
+				"has",
+				"hasOwnProperty"
+			],
+			[
+				"searchP",
+				"searchProjectBySkills"
+			],
+			[
+				"sear",
+				"searchProjectById〔function〕"
+			],
+			[
+				"prom",
+				"promisify"
+			],
+			[
+				"insta",
+				"instanceof〔keyword〕"
+			],
+			[
+				"single",
+				"singleRes"
+			],
+			[
+				"wor",
+				"Wordpress"
+			],
+			[
+				"foundation",
+				"foundation"
+			],
+			[
+				"boor",
+				"Bootstrap"
+			],
+			[
+				"javascript",
+				"javascript"
+			],
+			[
+				"Git",
+				"Git"
+			],
+			[
+				"CSS",
+				"CSS"
+			]
+		]
+	},
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"last_filter": "bash",
+		"selected_items":
+		[
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"preferences",
+				"Preferences: Settings - User"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"ngcontr",
+				"Snippet: ngcontroller"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lint the",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"defa",
+				"Preferences: Settings - Default"
+			],
+			[
+				"ngdire",
+				"Snippet: ngdirective"
+			],
+			[
+				"ngcont",
+				"Snippet: ngcontroller"
+			],
+			[
+				"snippe",
+				"Snippet: ngcontroller"
+			],
+			[
+				"ng",
+				"Snippet: ngcontroller"
+			],
+			[
+				"snippet",
+				"Snippet: ngcontroller"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet ",
+				"Snippet: ngcontroller"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"Snippet: ",
+				"Snippet: warn"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"jsx",
+				"Set Syntax: JSX"
+			],
+			[
+				"syntax jsx",
+				"Set Syntax: JavaScript (JSX)"
+			],
+			[
+				"trimmer",
+				"Trimmer: Trim trailing whitespace."
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"TRIMMER",
+				"Trimmer: Collapse empty lines."
+			],
+			[
+				"trimm",
+				"Trimmer: Remove blank spaces."
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax angu",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/andreszorro/workspace/personal/songspine/lib/classes/song.js",
+		"/Users/andreszorro/workspace/personal/songspine.sublime-project",
+		"/Users/andreszorro/workspace/personal/songspine/.git/hooks/pre-push",
+		"/Users/andreszorro/workspace/personal/songspine/.jshintrc",
+		"/Users/andreszorro/workspace/personal/songspine/package.json",
+		"/Users/andreszorro/workspace/personal/songspine/gulpfile.js",
+		"/Users/andreszorro/workspace/personal/songspine/index.html",
+		"/Users/andreszorro/workspace/personal/songspine/lib/main.sass",
+		"/Users/andreszorro/workspace/personal/songspine/lib/main.js",
+		"/Users/andreszorro/workspace/personal/songspine/lib/models/wikipedia-words.js",
+		"/Users/andreszorro/workspace/personal/songspine/lib/models/flickr-images.js",
+		"/Users/andreszorro/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/appConfig/js/factories/appConfigurationFactory.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/channel/scripts/shopChannelModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_verticalNav/styles/verticalNav.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/channel/shopChannelPage.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/product/scripts/shopProductModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/product/shopProductPage.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_verticalNav/scripts/itemTreeDirective.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_verticalNav/verticalNavView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_verticalNav/scripts/verticalNavModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/less/views/flagshipCommon.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/shopTab.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/landing/shopLandingPage.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/product/scripts/shopProductController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/landing/scripts/shopLandingController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/channel/scripts/shopChannelController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_articleGuide/sywCommentsView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/modals/profileConfigurator/profileConfiguratorView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/nurse/templateNurseView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/landing/scripts/shopLandingModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/shopTab.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_utils/scripts/utilsModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/services/flagshipShopCommonFunctionsService.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/index.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/services/componentActionService.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/common/iframeClickSnifferDirective.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/pages/discover/scripts/discoverViewModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/discover/pages/landing/scripts/discoverLandingController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/channel/scripts/shopChannelServiceController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_articleGuide/scripts/guideController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_stackbox/stackboxView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/appConfig/js/services/omnitureAnalyticsModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/guide/js/controllers/guideController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/one/scripts/templateOneModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_articleGuide/sywGuideView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_productList/styles/productList.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_productTile/scripts/productTileModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_productList/scripts/productListModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_productList/productListView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/product/styles/shopProductPage.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_slider/styles/slider.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_refine/refineView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_refine/scripts/refineModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/less/constants/tabsConstants.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_analytics/scripts/analyticsModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_showcase/styles/showcase.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_flagshipModal/styles/flagshipModal.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/services/templateServicesView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/services/scripts/templateServicesModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/services/styles/templateServices.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/three/styles/templateThree.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/two/styles/templateTwo.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/templateThree/templateThree.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/templateOne/templateOne.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/nurse/styles/templateNurse.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/appComponent/js/controllers/leftNavComponentViewController.js",
+		"/Users/andreszorro/workspace/sears/syw-admin/web/app/custom_modules/_utils/scripts/utilsModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/services/partials/servicesView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/services/js/controllers/servicesViewController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_articleGuide/scripts/commentsDirective.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/nurse/scripts/templateNurseModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/three/scripts/templateThreeModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/two/scripts/templateTwoModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/three/templateThreeView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/two/templateTwoView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/one/templateOneView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_socialCounters/styles/socialCounters.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/pages/channel/styles/shopChannelPage.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/one/styles/templateOne.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_socialCounters/scripts/socialCountersModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_socialCounters/socialCountersView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/dist/syw-shoes.css",
+		"/Users/andreszorro/workspace/sears/syw-shoes/dist/tabs/shop/shop.77ca4ae8.css",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/services/flagshipShopComponentsService.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/two/scripts/partnerAppsService.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/three/scripts/findInsuranceService.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/package.json",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/templateTwo/templateTwo.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_refine/dropdownView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_refine/scripts/dropdownDirective.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/services/articlesGuidesService.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/article/js/services/articlesService.js",
+		"/Users/andreszorro/workspace/sears/syw.sublime-project",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_slider/scripts/sliderModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_slider/sliderView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/banner/js/directives/collapseBannerDirective.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/.git/MERGE_MSG",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/nursePage/nursePageController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/nurse/scripts/nursePageService.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/nursePage/addNurseProvider.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/nursePage/addNurseProviderViewController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/pages/petHealth/scripts/petHealthModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/nurse/newNurseProviderView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/nurse/scripts/newNurseProviderController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/tabs/shop/serviceTemplates/nurse/styles/newNurseProvider.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/dist/partials/tabs/templateNurseView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/pages/landing/scripts/landingMainController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_showcase/scripts/showcaseModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_showcase/showcaseView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/pages/flagshipCategory/scripts/flagshipCategoryMainController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/servicesPage/servicesPageDirective.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/servicesPage/servicesPageController.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/servicesPage/servicesPage.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/templatesManager/templates/servicesPage/servicesPage.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/dist/partials/tabs/templateOneView.html",
+		"/Users/andreszorro/workspace/sears/syw-shoes/grunt-tasks/qa.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/grunt-tasks/prod.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/grunt-tasks/staging.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/grunt-tasks/dev.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/dist/vendor.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/.git/COMMIT_EDITMSG",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_seeAll/scripts/seeAllModule.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/_seeAll/styles/seeAll.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/components/appConfig/js/constant/appConstant.js",
+		"/Users/andreszorro/workspace/sears/syw-admin/web/app/less/constants/color.less",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/services/flagshipShopChannelService.js",
+		"/Users/andreszorro/workspace/sears/syw-shoes/public/src/pages/affiliateProducts/scripts/affiliateProductsModule.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Users/andreszorro/workspace/sears/syw-shoes/public",
+			"<open folders>",
+			"/Users/andreszorro/workspace/sears/syw-shoes/public/src",
+			"<open folders>",
+			"/Users/andreszorro/workspace/sears/syw-shoes/",
+			"/Users/andreszorro/workspace/sears/syw-shoes/public/src",
+			"<open folders>",
+			"/Users/andreszorro/workspace/sears/syw-admin",
+			"<open folders>",
+			"/Users/andreszorro/workspace/sears/syw-admin",
+			"<open folders>",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app/custom_modules",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app",
+			"/Users/andreszorro/workspace/sears/syw-admin",
+			"/Users/andreszorro/workspace/personal/marraneando/src",
+			"<open folders>",
+			"/Users/andreszorro/workspace/zemoga/zvacation/src/api",
+			"/Users/andreszorro/workspace/zemoga/zvacation/src/app",
+			"<open folders>",
+			"/Users/andreszorro/workspace/sears/syw-shoes/public/src",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app/custom_modules",
+			"/Users/andreszorro/workspace/sears/syw-admin",
+			"/Users/andreszorro/workspace/sears/syw-shoes/public/src",
+			"<open folders>",
+			"/Users/andreszorro/workspace/personal/marraneando/src",
+			"<open folders>",
+			"/Users/andreszorro/workspace/sears/syw-shoes/public/src",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app/custom_modules",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app",
+			"/Users/andreszorro/workspace/personal/sitp-api",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app/custom_modules",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app",
+			"/Users/andreszorro/workspace/sears/syw-shoes/public/src",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app",
+			"/Users/andreszorro/workspace/sears/syw-shoes/public/src",
+			"/Users/andreszorro/workspace/personal/marraneando/src",
+			"/Users/andreszorro/workspace/sears/syw-admin/web/app",
+			"/Users/andreszorro/workspace/personal/marraneando/src",
+			"/Users/andreszorro/workspace/sears/syw-shoes/public/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"title",
+			"structure",
+			"this.elements.title",
+			"desc",
+			"Base",
+			"base",
+			");\n",
+			"getElements",
+			"elements",
+			"compose",
+			"tile",
+			"$event",
+			"clickEvent",
+			".children {\n          border-bottom: 1px solid #999;",
+			"vertical-nav-heading",
+			"vertica-nav-heading",
+			"href=\"#\"",
+			"setBreadcrumbs",
+			"see-all",
+			"li:last-child",
+			"li:lastChild",
+			"isMobile",
+			"redirectToState",
+			"tabbedComponentAction",
+			"@vNavSeeAllColor",
+			"#55b3a7",
+			"clickOnStory",
+			"Products Categories",
+			"setBreadcrumbsArray",
+			"storyClick",
+			"event",
+			"description",
+			"clickOnStoryItem",
+			"$event",
+			"clickEvent",
+			"leftNavItemClick",
+			"itemsByRow",
+			"dsChannel",
+			"border-bottom",
+			"55em",
+			"setBreadcrumbsArray",
+			"max-height: 500px",
+			"font-size",
+			"spinner",
+			"1.1em",
+			"font-size: 1.1em",
+			"font-size: 1.1em;",
+			"h3",
+			"border-left",
+			".show-menu",
+			"z-index: 1000",
+			"componentClick",
+			"tabbedComponentAction",
+			"services",
+			" services ",
+			"services-section",
+			"social-actions",
+			"catalogClick",
+			"props",
+			"label",
+			"socialCounter",
+			"TplTwoCtrl",
+			"appConstant",
+			"appConfig",
+			"Omniture",
+			"Conf",
+			"addToCatalog",
+			"isMobile",
+			"TplTwoCtrl",
+			"TplOneCtrl",
+			"Most Installed",
+			"sort",
+			"partnerFilter",
+			"sorts",
+			"appliedFilters",
+			"syw-refine",
+			"TplOneCtrl",
+			"reset",
+			"collapseBanner",
+			"collapse-banner",
+			"isVisible",
+			"carousel-container-hidden",
+			"\" ",
+			"addNurseProviderViewCtrl",
+			"\" ",
+			"providerForm",
+			"pet-health",
+			"isSurveyDone",
+			"isLikeDone",
+			"Constants, ",
+			", ",
+			"Constants, ",
+			"Utils.redirect",
+			"clickOnShowcaseItem",
+			"showcaseClick",
+			"clickOnShowcase",
+			"profileConfiguratorOptions",
+			"clickOnExclusion",
+			"nursePageCtrl",
+			"submit",
+			"scope.TplServicesCtrl",
+			"scope.TplOneCtrl",
+			"scope.TplNurseCtrl",
+			"submitServiceProdiverData",
+			"getLandingDataPromise",
+			"nursePageCtrl",
+			"TplServicesCtrl",
+			"scope.TplServicesCtrl.disclaimer =",
+			"mainSocialCounter",
+			"TplOneCtrl",
+			"catalogClick",
+			"TplOneCtrl",
+			"setDiscoverBreadcrumbs",
+			"Discover",
+			"breadcrumbs",
+			"appEnvConstant",
+			"clickOnSeeAll",
+			"seeAllClick",
+			": ",
+			"clickOnSeeAll",
+			"$modal",
+			"videoModal",
+			"seeAllClick",
+			"seeAll",
+			"_tmpCha",
+			"currentChannel",
+			"leftNavActiveSet",
+			"arguments"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" (",
+			"['catch'](",
+			"FSShopCommon.onOpenedModal()",
+			"/img/",
+			"= \"/partials/",
+			" \"/partials/",
+			"\"/partials/",
+			"'/partials/",
+			"/fonts/",
+			"/static/",
+			"/img/",
+			"templateUrl: '/partials",
+			"definition",
+			"*/\n",
+			" >",
+			"app-config-module",
+			"Utils.find",
+			"10",
+			") {",
+			"if (",
+			"Gracias",
+			"gracias",
+			"Store.get('marraneando.",
+			"Store.set('marraneando.",
+			"Store.set('marraneando",
+			"Store.get('marraneando.",
+			"Redirect",
+			"}</",
+			"lodash",
+			"'",
+			"FSShopCommon.onOpenedModal(Platform)",
+			"showcases",
+			"type=\"text/javascript\""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"appconfig",
+				"Web App/public/src/components/appConfig/js/factories/appConfigurationFactory.js"
+			],
+			[
+				"shopproduct",
+				"Web App/public/src/tabs/shop/pages/product/scripts/shopProductController.js"
+			],
+			[
+				"shoplandingcontro",
+				"Web App/public/src/tabs/shop/pages/landing/scripts/shopLandingController.js"
+			],
+			[
+				"shopchannelcontroller",
+				"Web App/public/src/tabs/shop/pages/channel/scripts/shopChannelController.js"
+			],
+			[
+				"verticalnav",
+				"Web App/public/src/components/_verticalNav/styles/verticalNav.less"
+			],
+			[
+				"shoplandingpage.",
+				"Web App/public/src/tabs/shop/pages/landing/shopLandingPage.html"
+			],
+			[
+				"itemtreedire",
+				"Web App/public/src/components/_verticalNav/scripts/itemTreeDirective.js"
+			],
+			[
+				"shopchannelpage",
+				"Web App/public/src/tabs/shop/pages/channel/shopChannelPage.html"
+			],
+			[
+				"shopproductmodule",
+				"Web App/public/src/tabs/shop/pages/product/scripts/shopProductModule.js"
+			],
+			[
+				"shopchannel",
+				"Web App/public/src/tabs/shop/pages/channel/scripts/shopChannelModule.js"
+			],
+			[
+				"shopta",
+				"Web App/public/src/tabs/shop/shopTab.less"
+			],
+			[
+				"vericalnav.less",
+				"Web App/public/src/components/_verticalNav/styles/verticalNav.less"
+			],
+			[
+				"configura",
+				"Web App/public/src/components/appConfig/js/factories/appConfigurationFactory.js"
+			],
+			[
+				"shopchannelcontr",
+				"Web App/public/src/tabs/shop/pages/channel/scripts/shopChannelController.js"
+			],
+			[
+				"flagshipshopcommo",
+				"Web App/public/src/services/flagshipShopCommonFunctionsService.js"
+			],
+			[
+				"utilsmodule",
+				"Web App/public/src/components/_utils/scripts/utilsModule.js"
+			],
+			[
+				"shop",
+				"Web App/public/src/tabs/shop/shopTab.js"
+			],
+			[
+				"component",
+				"Web App/public/src/services/componentActionService.js"
+			],
+			[
+				"shoptab",
+				"Web App/public/src/tabs/shop/shopTab.js"
+			],
+			[
+				"componentact",
+				"Web App/public/src/services/componentActionService.js"
+			],
+			[
+				"shopchanne",
+				"Web App/public/src/tabs/shop/pages/channel/scripts/shopChannelServiceController.js"
+			],
+			[
+				"discoverview",
+				"Web App/public/src/pages/discover/scripts/discoverViewModule.js"
+			],
+			[
+				"discover",
+				"Web App/public/src/tabs/discover/pages/landing/scripts/discoverLandingController.js"
+			],
+			[
+				"flagship",
+				"Web App/public/src/services/flagshipShopCommonFunctionsService.js"
+			],
+			[
+				"omniturea",
+				"Web App/public/src/components/appConfig/js/services/omnitureAnalyticsModule.js"
+			],
+			[
+				"stackboxview",
+				"Web App/public/src/components/_stackbox/stackboxView.html"
+			],
+			[
+				"discovermodule",
+				"Web App/public/src/pages/discover/scripts/discoverViewModule.js"
+			],
+			[
+				"discoverlanding",
+				"Web App/public/src/tabs/discover/pages/landing/scripts/discoverLandingController.js"
+			],
+			[
+				"guidecontroller",
+				"Web App/public/src/components/_articleGuide/scripts/guideController.js"
+			],
+			[
+				"verticalnavmodule",
+				"Web App/public/src/components/_verticalNav/scripts/verticalNavModule.js"
+			],
+			[
+				"flagshipshop",
+				"Web App/public/src/services/flagshipShopCommonFunctionsService.js"
+			],
+			[
+				"discoverlani",
+				"Web App/public/src/tabs/discover/pages/landing/scripts/discoverLandingController.js"
+			],
+			[
+				"producttilemodule",
+				"Web App/public/src/components/_productTile/scripts/productTileModule.js"
+			],
+			[
+				"productmodule",
+				"Web App/public/src/components/_productList/scripts/productListModule.js"
+			],
+			[
+				"productlis",
+				"Web App/public/src/components/_productList/styles/productList.less"
+			],
+			[
+				"product",
+				"Web App/public/src/components/_productList/productListView.html"
+			],
+			[
+				"flagshipshopcommon",
+				"Web App/public/src/services/flagshipShopCommonFunctionsService.js"
+			],
+			[
+				"shopchannelcontro",
+				"Web App/public/src/tabs/shop/pages/channel/scripts/shopChannelController.js"
+			],
+			[
+				"refinemodule",
+				"Web App/public/src/components/_refine/scripts/refineModule.js"
+			],
+			[
+				"shoptab.less",
+				"Web App/public/src/tabs/shop/shopTab.less"
+			],
+			[
+				"productlistmodule",
+				"Web App/public/src/components/_productList/scripts/productListModule.js"
+			],
+			[
+				"productlist",
+				"Web App/public/src/components/_productList/productListView.html"
+			],
+			[
+				"shopproducta",
+				"Web App/public/src/tabs/shop/pages/product/shopProductPage.html"
+			],
+			[
+				"shopproducts",
+				"Web App/public/src/tabs/shop/pages/product/scripts/shopProductModule.js"
+			],
+			[
+				"refienview",
+				"Web App/public/src/components/_refine/refineView.html"
+			],
+			[
+				"templatetw",
+				"Web App/public/src/tabs/shop/serviceTemplates/two/styles/templateTwo.less"
+			],
+			[
+				"templateservicesview",
+				"Web App/public/src/tabs/shop/serviceTemplates/services/templateServicesView.html"
+			],
+			[
+				"templateservicesmodule",
+				"Web App/public/src/tabs/shop/serviceTemplates/services/scripts/templateServicesModule.js"
+			],
+			[
+				"templateservices",
+				"Web App/public/src/tabs/shop/serviceTemplates/services/styles/templateServices.less"
+			],
+			[
+				"templatethree",
+				"Web App/public/src/tabs/shop/serviceTemplates/three/styles/templateThree.less"
+			],
+			[
+				"templatenur",
+				"Web App/public/src/tabs/shop/serviceTemplates/nurse/styles/templateNurse.less"
+			],
+			[
+				"templateone",
+				"Web App/public/src/components/templatesManager/templates/templateOne/templateOne.less"
+			],
+			[
+				"appconf",
+				"Web App/public/src/components/appConfig/js/factories/appConfigurationFactory.js"
+			],
+			[
+				"templatetwo",
+				"Web App/public/src/tabs/shop/serviceTemplates/two/styles/templateTwo.less"
+			],
+			[
+				"templateone.less",
+				"Web App/public/src/tabs/shop/serviceTemplates/one/styles/templateOne.less"
+			],
+			[
+				"socialcounters",
+				"Web App/public/src/components/_socialCounters/styles/socialCounters.less"
+			],
+			[
+				"shopchannelser",
+				"Web App/public/src/tabs/shop/pages/channel/scripts/shopChannelServiceController.js"
+			],
+			[
+				"templatenursemodule",
+				"Web App/public/src/tabs/shop/serviceTemplates/nurse/scripts/templateNurseModule.js"
+			],
+			[
+				"templatethreemo",
+				"Web App/public/src/tabs/shop/serviceTemplates/three/scripts/templateThreeModule.js"
+			],
+			[
+				"templatetwomodule",
+				"Web App/public/src/tabs/shop/serviceTemplates/two/scripts/templateTwoModule.js"
+			],
+			[
+				"templateonemod",
+				"Web App/public/src/tabs/shop/serviceTemplates/one/scripts/templateOneModule.js"
+			],
+			[
+				"templatenurse",
+				"Web App/public/src/tabs/shop/serviceTemplates/nurse/templateNurseView.html"
+			],
+			[
+				"templatethreeview",
+				"Web App/public/src/tabs/shop/serviceTemplates/three/templateThreeView.html"
+			],
+			[
+				"templatetwoview",
+				"Web App/public/src/tabs/shop/serviceTemplates/two/templateTwoView.html"
+			],
+			[
+				"shopchannelmodule",
+				"Web App/public/src/tabs/shop/pages/channel/scripts/shopChannelModule.js"
+			],
+			[
+				"shopindex",
+				"Web App/public/src/tabs/shop/index.html"
+			],
+			[
+				"templateoneview",
+				"Web App/public/src/tabs/shop/serviceTemplates/one/templateOneView.html"
+			],
+			[
+				"findinsuranceser",
+				"Web App/public/src/tabs/shop/serviceTemplates/three/scripts/findInsuranceService.js"
+			],
+			[
+				"componentsservice",
+				"Web App/public/src/services/flagshipShopComponentsService.js"
+			],
+			[
+				"package",
+				"Web App/package.json"
+			],
+			[
+				"appconfiguration",
+				"Web App/public/src/components/appConfig/js/factories/appConfigurationFactory.js"
+			],
+			[
+				"shopchannelservice",
+				"Web App/public/src/tabs/shop/pages/channel/scripts/shopChannelServiceController.js"
+			],
+			[
+				"templateonemodule",
+				"Web App/public/src/tabs/shop/serviceTemplates/one/scripts/templateOneModule.js"
+			],
+			[
+				"templatetwovi",
+				"Web App/public/src/tabs/shop/serviceTemplates/two/templateTwoView.html"
+			],
+			[
+				"partnerapps",
+				"Web App/public/src/tabs/shop/serviceTemplates/two/scripts/partnerAppsService.js"
+			],
+			[
+				"dropdownvi",
+				"Web App/public/src/components/_refine/dropdownView.html"
+			],
+			[
+				"dropdown",
+				"Web App/public/src/components/_refine/scripts/dropdownDirective.js"
+			],
+			[
+				"refine",
+				"Web App/public/src/components/_refine/scripts/refineModule.js"
+			],
+			[
+				"articlesguides",
+				"Web App/public/src/services/articlesGuidesService.js"
+			],
+			[
+				"aservice",
+				"Web App/public/src/components/article/js/services/articlesService.js"
+			],
+			[
+				"slidermodule",
+				"Web App/public/src/components/_slider/scripts/sliderModule.js"
+			],
+			[
+				"sliderview",
+				"Web App/public/src/components/_slider/sliderView.html"
+			],
+			[
+				"sliderview.html",
+				"Web App/public/src/components/_slider/sliderView.html"
+			],
+			[
+				"pethea",
+				"Web App/public/src/pages/petHealth/scripts/petHealthModule.js"
+			],
+			[
+				"addnurse",
+				"Web App/public/src/components/templatesManager/templates/nursePage/addNurseProviderViewController.js"
+			],
+			[
+				"addnurseprovider",
+				"Web App/public/src/components/templatesManager/templates/nursePage/addNurseProvider.html"
+			],
+			[
+				"package.json",
+				"Web App/package.json"
+			],
+			[
+				"templatenurseview",
+				"syw-shoes/public/src/tabs/shop/serviceTemplates/nurse/templateNurseView.html"
+			],
+			[
+				"nursepageservice",
+				"syw-shoes/public/src/tabs/shop/serviceTemplates/nurse/scripts/nursePageService.js"
+			],
+			[
+				"landingmain",
+				"syw-shoes/public/src/pages/landing/scripts/landingMainController.js"
+			],
+			[
+				"flagshipcategory",
+				"syw-shoes/public/src/pages/flagshipCategory/scripts/flagshipCategoryMainController.js"
+			],
+			[
+				"showcasemodule",
+				"syw-shoes/public/src/components/_showcase/scripts/showcaseModule.js"
+			],
+			[
+				"showcaseview",
+				"syw-shoes/public/src/components/_showcase/showcaseView.html"
+			],
+			[
+				"componentaction",
+				"syw-shoes/public/src/services/componentActionService.js"
+			],
+			[
+				"shoplandingcontroller",
+				"syw-shoes/public/src/tabs/shop/pages/landing/scripts/shopLandingController.js"
+			],
+			[
+				"templatenue",
+				"syw-shoes/dist/partials/tabs/templateNurseView.html"
+			],
+			[
+				"seeall",
+				"syw-shoes/public/src/components/_seeAll/scripts/seeAllModule.js"
+			],
+			[
+				"itemtree",
+				"syw-shoes/public/src/components/_verticalNav/scripts/itemTreeDirective.js"
+			],
+			[
+				"shopproductcontroller",
+				"syw-shoes/public/src/tabs/shop/pages/product/scripts/shopProductController.js"
+			],
+			[
+				"shoplandingmodule",
+				"syw-shoes/public/src/tabs/shop/pages/landing/scripts/shopLandingModule.js"
+			],
+			[
+				"channelcontroller",
+				"syw-shoes/public/src/tabs/shop/pages/channel/scripts/shopChannelController.js"
+			],
+			[
+				"shopproductpage",
+				"syw-shoes/public/src/tabs/shop/pages/product/shopProductPage.html"
+			],
+			[
+				"flagshipcommo",
+				"syw-shoes/public/src/services/flagshipShopCommonFunctionsService.js"
+			],
+			[
+				"shoplandingpage",
+				"syw-shoes/dist/partials/tabs/shopLandingPage.html"
+			],
+			[
+				"seeallview",
+				"syw-shoes/public/src/components/_seeAll/seeAllView.html"
+			],
+			[
+				"videomodal",
+				"syw-shoes/public/src/components/_videoModal/scripts/videoModalModule.js"
+			],
+			[
+				"color",
+				"syw-admin/web/app/less/constants/color.less"
+			],
+			[
+				"flagshipshopmain",
+				"syw-shoes/public/src/pages/flagshipShop/scripts/flagshipShopMainController.js"
+			],
+			[
+				"flagshipcategoryservice",
+				"syw-shoes/public/src/services/flagshipShopCategoryService.js"
+			],
+			[
+				"shopprodmodu",
+				"syw-shoes/public/src/tabs/shop/pages/product/scripts/shopProductModule.js"
+			],
+			[
+				"resolvefu",
+				"syw-shoes/public/src/components/_utils/scripts/resolveFunctionFactory.js"
+			],
+			[
+				"flagships",
+				"syw-shoes/public/src/services/flagshipShopCommonFunctionsService.js"
+			],
+			[
+				"channelservice",
+				"syw-shoes/public/src/services/flagshipShopChannelService.js"
+			],
+			[
+				"appconfigura",
+				"syw-shoes/public/src/components/appConfig/js/factories/appConfigurationFactory.js"
+			],
+			[
+				"configurationfa",
+				"syw-shoes/public/src/components/appConfig/js/factories/appConfigurationFactory.js"
+			],
+			[
+				"shoptab.js",
+				"syw-shoes/public/src/tabs/shop/shopTab.js"
+			],
+			[
+				"shopchannel.less",
+				"syw-shoes/public/src/tabs/shop/pages/channel/styles/shopChannelPage.less"
+			],
+			[
+				"shoplanding",
+				"syw-shoes/public/src/tabs/shop/pages/landing/scripts/shopLandingController.js"
+			],
+			[
+				"landingcontro",
+				"syw-shoes/public/src/pages/landing/scripts/landingMainController.js"
+			],
+			[
+				"landingpage",
+				"syw-shoes/public/src/components/landing/js/controllers/landingPageViewController.js"
+			],
+			[
+				"showcase",
+				"syw-shoes/public/src/components/_showcase/showcaseView.html"
+			],
+			[
+				"showcase.less",
+				"syw-shoes/public/src/components/_showcase/styles/showcase.less"
+			],
+			[
+				"flagshipshopcomon",
+				"syw-shoes/public/src/services/flagshipShopCommonFunctionsService.js"
+			],
+			[
+				"flagshi",
+				"syw-shoes/public/src/services/flagshipShopCommonFunctionsService.js"
+			],
+			[
+				"shopchannelmodu",
+				"syw-shoes/public/src/tabs/shop/pages/channel/scripts/shopChannelModule.js"
+			],
+			[
+				"flagshipsho",
+				"syw-shoes/public/src/services/flagshipShopCommonFunctionsService.js"
+			],
+			[
+				"shoppor",
+				"syw-shoes/public/src/tabs/shop/pages/product/scripts/shopProductController.js"
+			],
+			[
+				"videobannerview",
+				"syw-shoes/public/src/components/_videoBanner/videoBannerView.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
