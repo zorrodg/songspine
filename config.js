@@ -1,4 +1,5 @@
 System.config({
+  "transpiler": "traceur",
   "paths": {
     "*": "*.js",
     "songspine/*": "lib/*.js",
@@ -15,6 +16,8 @@ System.config({
     "node-fetch": "npm:node-fetch@1.2.1",
     "plural": "npm:plural@0.1.6",
     "qs": "npm:qs@3.0.0",
+    "sortable": "github:rubaxa/sortable@1.2.0",
+    "spin": "npm:spin@0.0.1",
     "traceur": "github:jmcriffey/bower-traceur@0.0.87",
     "traceur-runtime": "github:jmcriffey/bower-traceur-runtime@0.0.87",
     "github:jspm/nodelibs-assert@0.1.0": {
