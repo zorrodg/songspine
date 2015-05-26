@@ -1,0 +1,10 @@
+#!/bin/sh
+
+remote="$1"
+url="$2"
+
+echo "Running hook: gulp prod"
+gulp prod
+git add -A
+git commit -m "Gulp Prod"
+exit 0

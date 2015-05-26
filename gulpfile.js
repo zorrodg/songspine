@@ -9,6 +9,7 @@
 // Module dependencies
 var gulp = require('gulp');
 var _ = require('lodash');
+var path = require('path');
 var exec = require('child_process').exec;
 var gp = require('gulp-load-plugins')({
       pattern: ['gulp-*', 'gulp.*'],
@@ -54,6 +55,13 @@ gulp.task('server:init', function () {
 
 gulp.task('watch', ['default', 'server:init'], function(){
   gulp.watch('lib/*.*', ['sass','index:dev']);
+});
+
+gulp.task('hooks', function () {
+  gulp.src('hooks/*')
+    .pipe(gp.sym(function (source) {
+      return path.join('.git/hooks/', source.relative.split(path.sep)[0]);
+    }));
 });
 
 gulp.task('sass', function(){
